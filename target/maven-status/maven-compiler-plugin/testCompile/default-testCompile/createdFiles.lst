@@ -1,0 +1,6 @@
+com\virgin\games\cucumber\BDDRunner.class
+com\virgin\games\testbase\TestBase.class
+com\virgin\games\testsuite\UserAssertionTest.class
+com\virgin\games\testsuite\UserExtractionGBPTest.class
+com\virgin\games\avirgingametest\GETTestRunner.class
+com\virgin\games\cucumber\VirginGameSteps.class

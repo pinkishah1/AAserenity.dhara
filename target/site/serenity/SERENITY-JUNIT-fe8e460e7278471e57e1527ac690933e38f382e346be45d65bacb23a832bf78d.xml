@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.virgin.games.testsuite.UserAssertionTest" skipped="0" tests="1" time="0.82" timestamp="2023-06-17T18:25:33.735+01:00[Europe/London]"><testcase classname="com.virgin.games.testsuite.UserAssertionTest" name="Verify the if the total is equal to 7"><failure message="1 expectation failed.&#10;JSON path data.pots.id doesn't match.&#10;Expected: &lt;7&gt;&#10;  Actual: [309, 3544, 5323]&#10;" type="java.lang.AssertionError">1 expectation failed.
+JSON path data.pots.id doesn't match.
+Expected: &lt;7&gt;
+  Actual: [309, 3544, 5323]
+</failure><system-err>1 expectation failed.
+JSON path data.pots.id doesn't match.
+Expected: &lt;7&gt;
+  Actual: [309, 3544, 5323]
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.content(ResponseSpecificationImpl.groovy:265)&#13;
+io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:248)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:268)&#13;
+com.virgin.games.testsuite.UserAssertionTest.test02(UserAssertionTest.java:40)&#13;
+</system-err></testcase></testsuite>

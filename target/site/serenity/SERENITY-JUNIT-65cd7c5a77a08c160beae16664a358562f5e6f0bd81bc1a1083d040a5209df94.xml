@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.virgin.games.testsuite.UserExtractionGBPTest" skipped="0" tests="1" time="0.56" timestamp="2023-06-17T18:41:32.189+01:00[Europe/London]"><testcase classname="com.virgin.games.testsuite.UserExtractionGBPTest" name="Verify the amount = 3038.76 of forth id"><failure message="1 expectation failed.&#10;JSON path data.pots[3].amount doesn't match.&#10;Expected: 3038.76&#10;  Actual: 3038.76&#10;" type="java.lang.AssertionError">1 expectation failed.
+JSON path data.pots[3].amount doesn't match.
+Expected: 3038.76
+  Actual: 3038.76
+</failure><system-err>1 expectation failed.
+JSON path data.pots[3].amount doesn't match.
+Expected: 3038.76
+  Actual: 3038.76
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.content(ResponseSpecificationImpl.groovy:265)&#13;
+io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:248)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:268)&#13;
+com.virgin.games.testsuite.UserExtractionGBPTest.test03(UserExtractionGBPTest.java:58)&#13;
+</system-err></testcase></testsuite>

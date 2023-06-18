@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"GET test runner","Getting all information where currency is EUR","SUCCESS","2023-06-17T16:20:31.821+01:00[Europe/London]","0.0","10.05"
+"GET test runner","Getting all pots information where currency is GBP.","SUCCESS","2023-06-17T16:20:42.109+01:00[Europe/London]","0.0","1.02"
+"GET test runner","Getting all information where currency is SEK","SUCCESS","2023-06-17T16:20:43.132+01:00[Europe/London]","0.0","0.42"
+"User extraction GBP test","Extract the limit","SUCCESS","2023-06-17T16:20:35.695+01:00[Europe/London]","0.0","2.12"
+"User extraction GBP test","Verify the first id equal to 194","SUCCESS","2023-06-17T16:20:37.914+01:00[Europe/London]","0.0","0.3"
